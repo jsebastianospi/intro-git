@@ -1,2 +1,2 @@
 def introduce():
-	print("Hi! I'm SEABASS")
+	print("Hi! I'm lool")
